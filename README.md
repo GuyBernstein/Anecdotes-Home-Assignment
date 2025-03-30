@@ -1,5 +1,7 @@
 # FastAPI DummyJSON API Client
 
+# Watch me --> https://drive.google.com/file/d/15Al_Ai8qxV_hH_TzwmnKveSUPc5H3X80/view?usp=sharing
+
 This repository contains a FastAPI application that serves as a client for the DummyJSON API, providing several endpoints that aggregate and transform data from various DummyJSON services.
 
 ## Overview
